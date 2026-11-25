@@ -1,0 +1,32 @@
+{
+  "background_color": "#1bef1b",
+  "dir": "auto",
+  "display": "fullscreen",
+  "name": "apna-bazaar-1.vercel",
+  "orientation": "natural",
+  "scope": "/Aapna bajar ",
+  "short_name": "apna-bazaar-1.vercel",
+  "start_url": "/ApnaBazar ",
+  "theme_color": "#18f062",
+  "id": "ApnaBazar ",
+  "description": "Online store for shopping 🛍️",
+  "lang": "en",
+  "display_override": [
+    "fullscreen",
+    "minimal-ui",
+    "standalone",
+    "window-controls-overlay",
+    "browser"
+  ],
+  "shortcuts": [
+    {
+      "name": "ApnaBazar ",
+      "url": "ABS",
+      "description": "Hi"
+    }
+  ],
+  "categories": [
+    "fashion",
+    "shopping"
+  ]
+}
